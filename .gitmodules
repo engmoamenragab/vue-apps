@@ -1,3 +1,9 @@
+[submodule "alexapps-task"]
+	path = alexapps-task
+	url = https://github.com/engmoamenragab/alexapps-task
+[submodule "moamen-random-user-generator"]
+	path = moamen-random-user-generator
+	url = https://github.com/engmoamenragab/moamen-random-user-generator
 [submodule "moamen-vue-crash-2021"]
 	path = moamen-vue-crash-2021
 	url = https://github.com/engmoamenragab/moamen-vue-crash-2021
